@@ -1,6 +1,2 @@
-# One Month Rails
+# WebRTC based Social networking web application
 
-This is the sample project for
-[*One Month Rails*](http://onemonthrails.com)
-
-by [Mattan Griffel](http://mattangriffel.com)
